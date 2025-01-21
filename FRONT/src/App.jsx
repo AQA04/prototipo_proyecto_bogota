@@ -1,6 +1,6 @@
 //App.jsx, la madre
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import Home from './src/screens/home';
+import Home from './screens/home';
 //Importaciones
 
 
