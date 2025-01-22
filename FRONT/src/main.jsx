@@ -1,7 +1,6 @@
 import React from 'react'; // Importa React
 import { createRoot } from 'react-dom/client'; // Importa createRoot para el renderizado
 import App from './App'; // Importa el componente principal de tu aplicación
-import './index.css'; // Importa el archivo de estilos
 
 // Selecciona el elemento del DOM donde se montará la aplicación
 const rootElement = document.getElementById('root');
